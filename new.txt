@@ -4,3 +4,5 @@ miahelyzet
 apam
 itt jon a szoveg
 meg irjunk hozza valamit
+
+uj sorokat adok hozza
